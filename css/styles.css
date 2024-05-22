@@ -378,7 +378,7 @@ body {
     }
 }
 
-/*  ========== HERO   ========== */
+/*  ------------ HERO   ------------ */
 
 .section-hero {
     max-width: 320px;
@@ -702,7 +702,7 @@ body {
     }
 }
 
-/* ========== OUR PORTFOLIO  ========== */
+/* ------------ our portfolio  ---------- */
 
 .section-our-portfolio {
     padding-top: 96px;
@@ -812,7 +812,7 @@ body {
     }
 }
 
-/* ========== FOOTER STYLES ========== */
+/* ========== footer ========== */
 
 .footer-page {
     background-color: #2e2f42;
